@@ -1,0 +1,15 @@
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\bin\Debug\netstandard2.0\XamarinCRUDOperations.deps.json
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\bin\Debug\netstandard2.0\XamarinCRUDOperations.dll
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\bin\Debug\netstandard2.0\ref\XamarinCRUDOperations.dll
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\bin\Debug\netstandard2.0\XamarinCRUDOperations.pdb
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\Views\InsertPage.xaml.g.cs
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamarinCRUDOperations.csproj.CoreCompileInputs.cache
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamarinCRUDOperations.AssemblyInfoInputs.cache
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamarinCRUDOperations.AssemblyInfo.cs
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamarinCRUDOperations.dll
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\ref\XamarinCRUDOperations.dll
+C:\Users\Ece\source\repos\XamarinCRUDOperations\XamarinCRUDOperations\XamarinCRUDOperations\obj\Debug\netstandard2.0\XamarinCRUDOperations.pdb
